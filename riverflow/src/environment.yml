@@ -1,0 +1,27 @@
+name: climateai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - jupyter_client
+  - nbserverproxy
+  - netcdf4
+  - numpy
+  - cfgrib
+  - cartopy
+  - matplotlib
+  - scipy
+  - xarray
+  - dask
+  - cartopy
+  - matplotlib
+  - ipywidgets
+  - eofs
+  - scikit-learn
+  - tensorflow
+  - graphviz
+  - pip
+  - h5py
+  - pip:
+          - innvestigate
