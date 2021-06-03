@@ -24,5 +24,6 @@ dependencies:
   - pip
   - h5py
   - keras
+  - seaborn
   - pip:
           - innvestigate
