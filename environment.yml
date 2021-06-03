@@ -23,5 +23,6 @@ dependencies:
   - graphviz
   - pip
   - h5py
+  - keras
   - pip:
           - innvestigate
