@@ -19,7 +19,7 @@ Given Temperature and Precipitation at 9 stations and river flow at one location
 * Increased precipitation -> increased river flow
 * River flow is an "integrated" response in time to precipation
 * In regions with snow, temperature near/above freezing leads to melting snow and increased river flow during the melt season (i.e., spring)
-* In the non-melt season, higher temperatures could leader to more evaportation and result in less river flow, but this is likely a small impact 
+* In the non-melt season, higher temperatures could lead to more evaportation and result in less river flow, but this is likely a small impact 
 
 *Other aspects of the data to consider:*
 
