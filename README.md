@@ -44,5 +44,5 @@ I like to look carefully at the data, start with simple models, and then move to
 
 *How do I test the models to determine if they are trustworthy?*
 * Compare train and test
-* Compare with climatology and persistence 
+* Look at the prediction
 
