@@ -5,9 +5,9 @@
 
 Given Temperature and Precipitation at 9 stations and river flow at one location, predict river flow one week later.
 
-*Predictors/Features*: Temperature anomalies (${^o}C$) and Precipitation anomalies (mm) at 9 stations; river flow ($m^{3}s^{-1}$) at specific location (Norway).
+*Predictors/Features*: Temperature anomalies (deg C) and Precipitation anomalies (mm) at 9 stations; river flow (m^3s^-1) at specific location (Norway).
 
-*Predictand/Target*: River Flow ($m^{3}s^{-1}$) at the specific location (Norway) one week later
+*Predictand/Target*: River Flow (m^3s^-1) at the specific location (Norway) one week later
 
 
 ## Science Background
@@ -15,7 +15,7 @@ Given Temperature and Precipitation at 9 stations and river flow at one location
 *Why would we expect to be able to predict river flow with precipitation, temperature, and the previous river flow? How are these variables related?*
 
 * In the absence of new water input, the river flow will decrease slowly over time. 
-* River flow has high autocorrelation over some timescale (??)
+* River flow has high autocorrelation over some timescale
 * Increased precipitation -> increased river flow
 * River flow is an "integrated" response in time to precipation
 * In regions with snow, temperature near/above freezing leads to melting snow and increased river flow during the melt season (i.e., spring)
